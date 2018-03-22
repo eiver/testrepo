@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-ghfhf
-=======
-new file
->>>>>>> featurex
